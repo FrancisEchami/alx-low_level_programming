@@ -4,8 +4,8 @@
 * main - prints the string in the printf function
 *
 * Description: using the main function
-* this program prints excatly with proper 
-* grammar, but the outcome is a piece of 
+* this program prints excatly with proper
+* grammar, but the outcome is a piece of
 * art, followed by a new line
 * Return: 0
 */
