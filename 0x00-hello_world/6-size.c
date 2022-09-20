@@ -2,11 +2,8 @@
 
 /**
 *
-*main - Prints the size of various var types
+*main - Prints the size of various of var types
 *
-*Description: using the printf function
-*this program prints the size of variable
-*types on the computer it is compiled and run on
 *Return: 0
 */
 int main(void)
